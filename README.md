@@ -72,6 +72,3 @@ ImageReve/
 ├── client/   # React frontend
 └── server/   # Node.js backend
 ```
-
-
-Do you want me to also make a **shorter 1-minute portfolio description** for ImageReve (so you can use it on LinkedIn/Resume)?
